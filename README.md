@@ -1,5 +1,7 @@
-# Google Ads Script: YouTube Channel Excluder #
-## Automatically exclude YouTube channels in irrelevant countries ##
+# Google Ads Script: YouTube Channel Excluder
+## Automatically exclude YouTube channels in irrelevant countries
+
+Deutsche Version: [LIESMICH.md](https://github.com/RicSti/google-ads-script-youtube-channel-excluder/blob/main/LIESMICH.md)
 
 ![Google Ads Script YouTube Channel Excluder Header Notebook Script Code](https://www.adtraffic.de/wp-content/uploads/development-1024x682.jpg)
 
